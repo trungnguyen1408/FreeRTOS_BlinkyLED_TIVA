@@ -1,0 +1,49 @@
+# FIXED
+
+Lib/croutine.obj: ../Lib/croutine.c
+Lib/croutine.obj: ../Lib/FreeRTOS.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stddef.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
+Lib/croutine.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
+Lib/croutine.obj: D:/FreeRTOS/Application/FreeRTOSConfig.h
+Lib/croutine.obj: D:/FreeRTOS/Include/projdefs.h
+Lib/croutine.obj: D:/FreeRTOS/Include/portable.h
+Lib/croutine.obj: D:/FreeRTOS/Include/deprecated_definitions.h
+Lib/croutine.obj: D:/FreeRTOS/Lib/portmacro.h
+Lib/croutine.obj: D:/FreeRTOS/Include/mpu_wrappers.h
+Lib/croutine.obj: D:/FreeRTOS/Include/task.h
+Lib/croutine.obj: D:/FreeRTOS/Include/list.h
+Lib/croutine.obj: D:/FreeRTOS/Include/croutine.h
+Lib/croutine.obj: D:/FreeRTOS/Include/list.h
+
+../Lib/croutine.c: 
+../Lib/FreeRTOS.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stddef.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h: 
+D:/FreeRTOS/Application/FreeRTOSConfig.h: 
+D:/FreeRTOS/Include/projdefs.h: 
+D:/FreeRTOS/Include/portable.h: 
+D:/FreeRTOS/Include/deprecated_definitions.h: 
+D:/FreeRTOS/Lib/portmacro.h: 
+D:/FreeRTOS/Include/mpu_wrappers.h: 
+D:/FreeRTOS/Include/task.h: 
+D:/FreeRTOS/Include/list.h: 
+D:/FreeRTOS/Include/croutine.h: 
+D:/FreeRTOS/Include/list.h: 
