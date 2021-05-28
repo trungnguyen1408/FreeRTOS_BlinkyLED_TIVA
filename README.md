@@ -9,4 +9,4 @@
   - Task 3: Nếu nhấn SW2, bật led Blue, nhả ra vẫn bật. Nhấn SW2 lần nữa, tắt led Blue, nhả ra vẫn tắt.
 
 - Download kernel và các file drive của FreeRTOS tại *https://www.freertos.org/*
-- Để chạy được chương trình trên cần tài thêm file thư hiện của kit Tiva-C là **TivaWare** và add vào project.
+- Để chạy được chương trình trên cần tài thêm file thư hiện của kit Tiva-C là **Tiva-C-Ware** và add vào project.
